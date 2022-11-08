@@ -13,6 +13,7 @@ public class Main {
 	BMI=weight/(height*height);
 	
 	System.out.println("BMIÇÕ"+String.format("%.2f", BMI)+"Ç≈Ç∑ÅB");
+
 	}
 	}
 }
